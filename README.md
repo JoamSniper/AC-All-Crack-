@@ -3,6 +3,6 @@
 
 ## [history]  
 * 2022-12-02 : AC(All-Crack) v1.0.0-alpha1  
-  ### <function>
-  ### + Basic SQL injection available.
+  ### <function>  
+  ### Basic SQL injection available.
 
